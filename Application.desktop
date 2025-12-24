@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=myAppName
+Icon=~/myApp/icon.xpm
+Exec=~/myApp/launcher
+Comment=brief description
+Categories=AudioVideo;Audio;Video;Development;Education;Game;Graphics;Network;Office;Science;Settings;System;Utility
+Terminal=false
