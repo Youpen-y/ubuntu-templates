@@ -4,9 +4,9 @@
 #
 # Usage:
 #
-# Author:
-# Version:
-# License:
+# Author  : <NAME> <EMAIL>
+# Version :
+# License :
 
 set -euo pipefail   # strict mode
 IFS=$'\n\t'
